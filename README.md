@@ -13,4 +13,4 @@ Welcome to my Excel projects repository! This repository showcases my ability to
 
 ## 📁 Project Directory
 # Project 1: FNP Sales Analysis & BI Dashboard
-2. **[Project Name 2]** - Briefly describe another project (e.g., Marketing Data Cleaning and Deduplication Pipeline).
+
