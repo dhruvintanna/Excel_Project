@@ -12,5 +12,5 @@ Welcome to my Excel projects repository! This repository showcases my ability to
 * **Visualization:** Interactive dashboards, Conditional Formatting, and Pivot Tables.
 
 ## 📁 Project Directory
-1. **[Project Name 1]** - Briefly describe what business problem you solved (e.g., E-commerce Sales Performance Dashboard).
+# Project 1: FNP Sales Analysis & BI Dashboard
 2. **[Project Name 2]** - Briefly describe another project (e.g., Marketing Data Cleaning and Deduplication Pipeline).
